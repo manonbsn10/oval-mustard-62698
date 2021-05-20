@@ -7,7 +7,7 @@ excerpt: >-
   means of an image sensor, or chemically by means of a light-sensitive material
   such as photographic film.
 date: '2018-01-15'
-thumb_img_path: images/visite-guid--e-quartier-rouge-amsterdam.jpg
+thumb_img_path: images/visiter-quartier-rouge.webp
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
 content_img_path: images/8.jpg
 seo:
