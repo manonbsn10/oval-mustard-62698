@@ -1,5 +1,5 @@
 ---
-title: Top 10 des coffeshop à Amsterdam
+title: Où pécher au Pays-Bas ?
 subtitle: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
