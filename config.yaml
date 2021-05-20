@@ -23,6 +23,13 @@ params:
       - label: Style Guide
         url: /style-guide
         style: link
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
       - label: Contact
         url: /contact
         style: link
