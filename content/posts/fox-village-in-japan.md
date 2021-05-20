@@ -4,11 +4,10 @@ subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  Amsterdam... Une ville qui attire toujours plus de voyageur. Néanmoins partir
+  en voiture, peut revenir très chère. Le stationnement n'est pas simple et
+  atteint facilement 30€/jour. De plus, pour circuler en ville ce n'est pas
+  forcément le moyen de locomotion le plus simple. Découvrez les emplacements...
 date: '2020-01-11'
 thumb_img_path: images/Ajax.jpg
 thumb_img_alt: A red fox sitting on a meadow
