@@ -12,8 +12,7 @@ params:
     nav_links:
       - url: /
         style: link
-      - label: About
-        url: /about
+      - url: /about
         style: link
       - label: lorem-ipsum
         url: '#'
