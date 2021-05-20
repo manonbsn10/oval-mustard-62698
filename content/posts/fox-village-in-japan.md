@@ -9,7 +9,7 @@ excerpt: >-
   atteint facilement 30€/jour. De plus, pour circuler en ville ce n'est pas
   forcément le moyen de locomotion le plus simple.
 date: '2020-01-11'
-thumb_img_path: images/pr ajax.jpg
+thumb_img_path: images/279px-Westerkerk_Amsterdam.jpg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
 seo:
