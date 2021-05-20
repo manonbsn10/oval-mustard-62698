@@ -20,7 +20,7 @@ params:
         new_window: false
         no_follow: false
         type: action
-      - label: Style Guide
+      - label: Blog
         url: /style-guide
         style: link
       - label: lorem-ipsum
