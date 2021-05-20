@@ -23,7 +23,7 @@ params:
       - label: Blog
         url: /style-guide
         style: link
-      - label: lorem-ipsum
+      - label: Qui suis-je
         url: '#'
         style: link
         icon_class: dev
